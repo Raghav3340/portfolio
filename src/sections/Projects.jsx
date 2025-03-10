@@ -71,7 +71,7 @@ const Projects = () => {
 
           <div className="flex justify-between items-center mt-7">
             <button className="arrow-btn" onClick={() => handleNavigation('previous')}>
-              <img type="image/svg+xml" src="/assets/left-arrow.png" alt="left arrow" />
+              <img  src="/assets/left-arrow.png" alt="left arrow" />
             </button>
 
             <button className="arrow-btn" onClick={() => handleNavigation('next')}>

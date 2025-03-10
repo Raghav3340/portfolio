@@ -20,8 +20,8 @@ const Footer = () => {
       </div>
 
       <p className="text-white/50">
-  © {new Date().getFullYear()} Raghavendra. All rights reserved.
-</p>
+        © {new Date().getFullYear()} Raghavendra. All rights reserved.
+      </p>
 
     </footer>
   );
